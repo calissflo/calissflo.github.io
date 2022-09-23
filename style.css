@@ -1,0 +1,70 @@
+
+.header {
+  /* MODIFICATION */
+  width: 100%;
+  background-image: url("http://www.freewebheaders.com/wordpress/wp-content/gallery/global/global-franchise-blue-header.jpg");
+  text-align: center;
+  padding: 2px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: lightcoral;
+  background-image:url(asset/boat.jpg)
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightcyan;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: crimson;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(112, 1, 177);
+}
+
+body {
+  background-color: lavenderblush;
+  font-family: Lucida Calligraphy, cursive;
+  color: #333;
+}
+
+section {
+  padding: 120px;
+}
+
+h1 {
+  font-size: 30px;
+  color: lightcyan;
+  text-shadow: 4px 4px #333;
+  text-align: center;
+  font-style: oblique;
+}
+
+#welcome {
+  height: 100px;
+  background-size: cover;
+  font-family: Lucida Calligraphy, cursive;
+}
+#assets {
+  margin-top: auto;
+
+  h2 {
+    font-family: "Brush Script MT", cursive;
+  }
+
