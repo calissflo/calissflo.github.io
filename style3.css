@@ -1,0 +1,89 @@
+#text {
+  /* MODIFICATION */
+  width: 40%;
+  background-image: url("http://www.freewebheaders.com/wordpress/wp-content/gallery/global/global-franchise-blue-header.jpg");
+  text-align: start;
+  padding: 200px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: lightcoral;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightcyan;
+}
+
+li a {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: crimson;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(112, 1, 177);
+}
+h1 {
+  width: 96%;
+  font-size: 50px;
+  color: gold;
+  text-shadow: 2px 2px #333;
+  text-align: center;
+
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+h1 {
+  font-family: Lucida Calligraphy, cursive;
+}
+#text {
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+#RF {
+  width: 50%;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#RF {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+
+section {
+  padding: 30px;
+}
+body {
+  background-color: rgb(193, 145, 202);
+  font-family: Lucida Calligraphy, cursive;
+}
+
+#tr {
+  text-align: center;
+  color: aqua;
+}
+table {
+  border: solid black;
+}
+td {
+  border: solid yellow;
+}
+th {
+  border: solid green;
+}
+
